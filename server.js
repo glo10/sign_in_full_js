@@ -58,5 +58,5 @@ app.get('/users',(req, res) =>{
 
 //Test server is running
 app.listen(4001,() => {
-  console.log('Serveur écoutant le port 4000\n CTRL + c pour stopper le serveur');
+  console.log('Serveur écoutant le port 4001\n CTRL + c pour stopper le serveur');
 });
